@@ -5,6 +5,7 @@ public class Main {
     public static void main(String[] args) {
         Student firstStudent = new Student("Andrei", "Draghici", 24);
         Student secondStudent = new Student("Anastasia", "Boabes", 23);
+        // gguygu
 
         firstStudent.addGradeToStudent(8);
         firstStudent.addGradeToStudent(5);
