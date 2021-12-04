@@ -7,7 +7,7 @@ public class Main {
         Student secondStudent = new Student("Anastasia", "Boabes", 23);
         // gguygu
 
-        firstStudent.addGradeToStudent(8);
+        firstStudent.addGradeToStudent(10);
         firstStudent.addGradeToStudent(5);
         firstStudent.addGradeToStudent(9);
         firstStudent.addGradeToStudent(3);
